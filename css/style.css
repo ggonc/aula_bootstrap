@@ -1,0 +1,40 @@
+body {
+    font: Arial;
+}
+
+.navbar {
+    background-color: #aaa14d;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.quem-somos {
+    background-color: rgb(184, 100, 100);
+    color: white;
+}
+
+.descricao-equipe {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.parceiros {
+    background-color: rgb(104, 77, 72);
+    color: white;
+}
+
+.lista-parceiros {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.bg-footer {
+    background-color: rgb(207, 147, 136);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
